@@ -41,7 +41,7 @@ This project analyzed land cover change in the Kyushu region of Japan using clas
 - A Jupyter Notebook containing the Python code used for analysis
 
 ## Notes:
-- Large raster files are not provided here. Please download them from the links provided above
+- Large raster files are not provided here. Please download them from the links provided.
 - This project is licensed under the MIT License
 
 
