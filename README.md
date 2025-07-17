@@ -42,6 +42,6 @@ This project analyzed land cover change in the Kyushu region of Japan using clas
 
 ## Notes:
 - Large raster files are not provided here. Please download them from the links provided.
-- This project is licensed under the MIT License
+- This project is licensed under the MIT License.
 
 
