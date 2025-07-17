@@ -1,4 +1,4 @@
-# Data Description
+# Data Description and Download
 This folder contains processed raster files used in the land cover change analysis. All data is clipped to the Kyushu region.
 All files can be downloaded here: https://drive.google.com/drive/folders/1czYmukdkLD8UBWGfyNOjwEGZNu6Gu45J?usp=drive_link
 
